@@ -6,8 +6,8 @@
 
 
 
-<h1 align="center">Hi 👋, I'm TheBlueDream</h1>
-<h3 align="center">Developer, Gamer, Collage Student</h3>
+<h1 align="center">안녕하세요 👋, 저는 TheBlueDream(NAMUORI) 입니다</h1>
+<h3 align="center">저는 부족한 개발자 이면서, 게이머 라고 봐주시면 됩니다</h3>
 
 
 
@@ -30,8 +30,8 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thebluedream&show_icons=true&locale=en&layout=compact" alt="thebluedream" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thebluedream&show_icons=true&locale=kr&layout=compact" alt="thebluedream" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thebluedream&show_icons=true&locale=en" alt="thebluedream" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thebluedream&show_icons=true&locale=kr" alt="thebluedream" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thebluedream&" alt="thebluedream" /></p>
