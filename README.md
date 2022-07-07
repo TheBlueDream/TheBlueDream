@@ -33,5 +33,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thebluedream&show_icons=true&locale=kr&layout=compact" alt="thebluedream" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thebluedream&show_icons=true&locale=kr" alt="thebluedream" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thebluedream&" alt="thebluedream" /></p>
